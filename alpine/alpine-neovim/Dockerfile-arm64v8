@@ -1,4 +1,0 @@
-FROM lurenyang/alpine-arm64v8:edge
-
-RUN set -eux \
-    && apk add --no-cache neovim
